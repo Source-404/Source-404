@@ -1,8 +1,10 @@
 # Hi there 👋 I am Suyash
 
-<img style="display: block;
+<p align="center">
+  <img style="display: block;
   margin: 5rem auto;
   height:30vh;" src="https://user-images.githubusercontent.com/72282249/140913410-e8c13586-380b-42c4-b4d9-6cfe725a953a.gif">
+</p>
 
 - 🔭 I’m currently working on React js Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
