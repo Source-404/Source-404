@@ -15,8 +15,5 @@
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph. I am going 169 wpm on my keyboard! 🚀
 
 <div style="display:flex;justify-content:space-around;margin:5rem auto; max-width:1000px">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Source-404&show_icons=true&theme=radical">
-
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-
 </div>
